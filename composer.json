@@ -9,8 +9,6 @@
         }
     ],
     "autoload":{
-      "psr-0":{
         "classmap":["SurveyMonkey.class.php"]
-      }
     }
 }
