@@ -9,6 +9,8 @@
         }
     ],
     "autoload":{
-      "psr-0":{"SurveyMonkey":""}
+      "psr-0":{
+        "SurveyMonkey":""
+      }
     }
 }
