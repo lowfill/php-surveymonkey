@@ -1,0 +1,12 @@
+{
+    "name": "oori/php-surveymonkey",
+    "description": "PHP class for SurveyMonkey API",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Oori",
+            "email": "oori@oori.com"
+        }
+    ],
+    "require": {}
+}
